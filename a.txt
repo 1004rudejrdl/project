@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 adsd
 =======
 adsdda
-ytgfuyguiiuj
+ytgfuyguiiujasd
+>>>>>>> origin/master
+=======
+adsdda
+adsd
+origin/num1
 >>>>>>> origin/master
